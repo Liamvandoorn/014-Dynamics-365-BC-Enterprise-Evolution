@@ -1,0 +1,7 @@
+Item_No,Description,Item_Category_Code,Base_Unit_of_Measure,Unit_Price_SEK,Unit_Cost_SEK,Costing_Method,Inventory_Posting_Group,VAT_Product_Posting_Group,Preferred_Vendor_Name
+NS-1001,Ergonomic Office Chair,OFFICE-EQUIPMENT,PCS,2495,1450,FIFO,INVENTORY,VAT25,Scandi Furniture ApS
+NS-1002,Adjustable Standing Desk,OFFICE-EQUIPMENT,PCS,4995,2950,FIFO,INVENTORY,VAT25,Scandi Furniture ApS
+NS-2001,27-inch Business Monitor,ELECTRONICS,PCS,2195,1325,FIFO,INVENTORY,VAT25,NordTech Distribution AB
+NS-2002,USB-C Docking Station,ELECTRONICS,PCS,1495,850,FIFO,INVENTORY,VAT25,NordTech Distribution AB
+NS-3001,A4 Printer Paper (5-pack),OFFICE-SUPPLIES,PACK,249,125,FIFO,INVENTORY,VAT25,Baltic Office Supplies OÜ
+NS-4001,LED Desk Lamp,WORKPLACE-ACCESSORIES,PCS,595,310,FIFO,INVENTORY,VAT25,EuroWork GmbH

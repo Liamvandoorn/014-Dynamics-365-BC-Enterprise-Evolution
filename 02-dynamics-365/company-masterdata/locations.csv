@@ -1,0 +1,4 @@
+Location_Code,Location_Name,City,Country_Region_Code,Description,Use_As_Warehouse
+STO,Stockholm HQ,Stockholm,SE,Administrative and finance headquarters; no physical inventory in initial setup,FALSE
+GOT,Gothenburg Distribution Centre,Gothenburg,SE,Primary warehouse and inventory location,TRUE
+MAL,Malmö Sales Office,Malmö,SE,Regional sales office; no physical inventory in initial setup,FALSE

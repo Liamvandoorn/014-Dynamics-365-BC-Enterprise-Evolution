@@ -1,0 +1,5 @@
+Vendor_No,Vendor_Name,Address,City,Post_Code,Country_Region_Code,Currency_Code,Payment_Terms_Code,Gen_Bus_Posting_Group,Product_Category,VAT_Registration_No
+V-20000,Baltic Office Supplies OÜ,Pärnu mnt 12,Tallinn,101 41,EE,EUR,NET30,EU,Office Supplies,TEST-NOT-VALID
+V-20001,NordTech Distribution AB,Klarabergsviadukten 70,Stockholm,111 64,SE,SEK,NET30,DOMESTIC,Electronics,TEST-NOT-VALID
+V-20002,Scandi Furniture ApS,Vesterbrogade 20,Copenhagen,1620,DK,EUR,NET30,EU,Furniture,TEST-NOT-VALID
+V-20003,EuroWork GmbH,Friedrichstraße 100,Berlin,101 17,DE,EUR,NET45,EU,Workplace Accessories,TEST-NOT-VALID

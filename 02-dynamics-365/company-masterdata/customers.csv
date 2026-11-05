@@ -1,0 +1,6 @@
+Customer_No,Customer_Name,Address,City,Post_Code,Country_Region_Code,Currency_Code,Payment_Terms_Code,Gen_Bus_Posting_Group,Customer_Segment,VAT_Registration_No
+C-10000,Svea Konsult AB,Sveavägen 100,Stockholm,111 34,SE,SEK,NET30,DOMESTIC,B2B,TEST-NOT-VALID
+C-10001,Malmö Utbildning AB,Södra Förstadsgatan 25,Malmö,211 43,SE,SEK,NET30,DOMESTIC,Education,TEST-NOT-VALID
+C-10002,Göteborgs Kontorspartner AB,Östra Hamngatan 12,Gothenburg,411 09,SE,SEK,NET30,DOMESTIC,B2B,TEST-NOT-VALID
+C-10003,Nordic Legal Group AB,Birger Jarlsgatan 18,Stockholm,114 34,SE,SEK,NET30,DOMESTIC,Professional Services,TEST-NOT-VALID
+C-10004,Västerås Teknik AB,Stora Gatan 8,Västerås,722 12,SE,SEK,NET20,DOMESTIC,Technology,TEST-NOT-VALID

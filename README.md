@@ -11,6 +11,6 @@ ERP + Customisation code + integration
 # Project overview 
 A fictional end-to-end ERP implementation using Microsoft Dynamics 365 Business Central, exploring business process configuration, system integration, data engineering and business intelligence. Project scope will expand as i go, this is a sandbox learning environment. 
 
-> Each folder 
+The project will be developed with clear linear logs. see `documentation/change-log`. 
 
-## B2B wholesale distribution company specialising in office equipment and electronics - A expaninding company 
+## Project repo

@@ -1,0 +1,33 @@
+Employee_No,First_Name,Last_Name,Job_Title,Department,Location,Email,Employment_Status,Reports_To_Employee_No
+E001,Erik,Lindberg,CEO,Management,Stockholm,erik.lindberg@example.com,Active,
+E002,Anna,Bergström,COO,Management,Stockholm,anna.bergstrom@example.com,Active,E001
+E003,Johan,Nilsson,Finance Manager,Finance & Administration,Stockholm,johan.nilsson@example.com,Active,E002
+E004,Sofia,Andersson,Accountant,Finance & Administration,Stockholm,sofia.andersson@example.com,Active,E003
+E005,Maja,Lundqvist,Accounts Payable Specialist,Finance & Administration,Stockholm,maja.lundqvist@example.com,Active,E003
+E006,Filip,Berg,Accounts Receivable Specialist,Finance & Administration,Stockholm,filip.berg@example.com,Active,E003
+E007,Marcus,Eriksson,Sales Manager,Sales & Customer Relations,Stockholm,marcus.eriksson@example.com,Active,E002
+E008,Emma,Karlsson,Sales Representative,Sales & Customer Relations,Stockholm,emma.karlsson@example.com,Active,E007
+E009,William,Olsson,Sales Representative,Sales & Customer Relations,Stockholm,william.olsson@example.com,Active,E007
+E010,Alice,Hansson,Sales Representative,Sales & Customer Relations,Stockholm,alice.hansson@example.com,Active,E007
+E011,Oliver,Lind,Sales Representative,Sales & Customer Relations,Malmö,oliver.lind@example.com,Active,E007
+E012,Elsa,Persson,Sales Representative,Sales & Customer Relations,Malmö,elsa.persson@example.com,Active,E007
+E013,Hugo,Gustafsson,Sales Coordinator,Sales & Customer Relations,Stockholm,hugo.gustafsson@example.com,Active,E007
+E014,Oskar,Johansson,Procurement Manager,Procurement,Stockholm,oskar.johansson@example.com,Active,E002
+E015,Linnea,Svensson,Buyer,Procurement,Stockholm,linnea.svensson@example.com,Active,E014
+E016,Albin,Larsson,Purchasing Coordinator,Procurement,Stockholm,albin.larsson@example.com,Active,E014
+E017,Viktor,Larsson,Warehouse Manager,Warehouse & Logistics,Gothenburg,viktor.larsson@example.com,Active,E002
+E018,Elias,Persson,Inventory Coordinator,Warehouse & Logistics,Gothenburg,elias.persson@example.com,Active,E017
+E019,Nils,Andersson,Warehouse Operative,Warehouse & Logistics,Gothenburg,nils.andersson@example.com,Active,E017
+E020,Ella,Johansson,Warehouse Operative,Warehouse & Logistics,Gothenburg,ella.johansson@example.com,Active,E017
+E021,Theo,Karlsson,Warehouse Operative,Warehouse & Logistics,Gothenburg,theo.karlsson@example.com,Active,E017
+E022,Saga,Nilsson,Warehouse Operative,Warehouse & Logistics,Gothenburg,saga.nilsson@example.com,Active,E017
+E023,Arvid,Eriksson,Warehouse Operative,Warehouse & Logistics,Gothenburg,arvid.eriksson@example.com,Active,E017
+E024,Freja,Olsson,Warehouse Operative,Warehouse & Logistics,Gothenburg,freja.olsson@example.com,Active,E017
+E025,Axel,Persson,Warehouse Operative,Warehouse & Logistics,Gothenburg,axel.persson@example.com,Active,E017
+E026,Ida,Svensson,Warehouse Operative,Warehouse & Logistics,Gothenburg,ida.svensson@example.com,Active,E017
+E027,Leo,Gustafsson,Warehouse Operative,Warehouse & Logistics,Gothenburg,leo.gustafsson@example.com,Active,E017
+E028,Alma,Bergström,Warehouse Operative,Warehouse & Logistics,Gothenburg,alma.bergstrom@example.com,Active,E017
+E029,David,Holm,IT Manager,IT & Business Systems,Stockholm,david.holm@example.com,Active,E002
+E030,Clara,Lind,ERP Administrator,IT & Business Systems,Stockholm,clara.lind@example.com,Active,E029
+E031,Isak,Björk,Systems Specialist,IT & Business Systems,Stockholm,isak.bjork@example.com,Active,E029
+E032,Nora,Ek,Data & Integration Analyst,IT & Business Systems,Stockholm,nora.ek@example.com,Active,E029
