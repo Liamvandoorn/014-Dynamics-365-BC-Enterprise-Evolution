@@ -1,3 +1,0 @@
-> 
-
-purchase to pay
